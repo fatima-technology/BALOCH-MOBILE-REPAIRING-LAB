@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.2",
   "date": "2026-11-01",
   "notes": {
-    "en": ["Data is now saved online (Firebase) and stays safe even if the phone is lost", "Same data on phone and laptop, updates live", "Works without internet too — saves online when internet returns", "Old data on this phone can be uploaded with one tap", "Login is now secured by Firebase"],
-    "ur": ["ڈیٹا اب آن لائن (فائر بیس) محفوظ ہوتا ہے", "فون اور لیپ ٹاپ پر ایک ہی ڈیٹا", "انٹرنیٹ کے بغیر بھی چلتی ہے", "پرانا ڈیٹا ایک ٹیپ سے اپلوڈ", "لاگ ان اب فائر بیس سے محفوظ"],
-    "ro": ["Data ab online (Firebase) save hota hai, phone gum ho jaye to bhi mehfooz", "Phone aur laptop par aik hi data, foran update", "Internet ke baghair bhi chalti hai, internet aate hi khud online save", "Is phone ka purana data aik tap se upload", "Login ab Firebase se mehfooz"]
+    "en": ["Faster opening after login — data keeps syncing in the background", "New loading screen: the phone gets a virus, cracked screen or IC fault and the Repair Lab fixes it digitally"],
+    "ur": ["لاگ ان کے بعد ایپ جلدی کھلتی ہے — ڈیٹا پیچھے سنک ہوتا رہتا ہے", "نیا لوڈنگ پیج: فون میں وائرس، ٹوٹی اسکرین یا آئی سی خرابی اور ریپیئر لیب اسے ڈیجیٹل طریقے سے ٹھیک کرتی ہے"],
+    "ro": ["Login ke baad app jaldi khulti hai — data peeche sync hota rehta hai", "Naya loading page: phone me virus, tooti screen ya IC kharabi aati hai aur Repair Lab use digital tareeqe se theek karti hai"]
   }
 }
